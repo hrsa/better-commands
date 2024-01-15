@@ -52,8 +52,10 @@ php artisan vendor:publish --tag="better-commands-views"
 ## Usage
 
 ```php
-$betterCommands = new Hrsa\BetterCommands();
-echo $betterCommands->echoPhrase('Hello, Hrsa!');
+
+[//]: # ($betterCommands = new Hrsa\BetterCommands&#40;&#41;;)
+
+[//]: # (echo $betterCommands->echoPhrase&#40;'Hello, Hrsa!'&#41;;)
 ```
 
 ## Testing
