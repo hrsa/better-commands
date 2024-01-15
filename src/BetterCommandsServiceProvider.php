@@ -5,7 +5,6 @@ namespace Hrsa\BetterCommands;
 use Hrsa\BetterCommands\Commands\RedoCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Hrsa\BetterCommands\Commands\BetterCommandsCommand;
 
 class BetterCommandsServiceProvider extends PackageServiceProvider
 {
