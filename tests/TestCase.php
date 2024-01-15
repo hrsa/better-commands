@@ -2,9 +2,9 @@
 
 namespace Hrsa\BetterCommands\Tests;
 
+use Hrsa\BetterCommands\BetterCommandsServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Hrsa\BetterCommands\BetterCommandsServiceProvider;
 
 class TestCase extends Orchestra
 {

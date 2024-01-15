@@ -4,7 +4,6 @@ namespace Hrsa\BetterCommands\Commands;
 
 use Illuminate\Console\ConfirmableTrait;
 use Illuminate\Database\Console\Migrations\BaseCommand;
-use Illuminate\Database\Migrations\Migrator;
 use Symfony\Component\Console\Input\InputOption;
 
 class RedoCommand extends BaseCommand
